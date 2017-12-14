@@ -10,7 +10,7 @@ echo "Directory: $(pwd)"
 /usr/local/bin/git commit -m "$message"
 /usr/local/bin/git push
 
-# Python directory
+# Python2.7 directory
 cd /Users/Alex/Documents/Python/
 echo "Directory: $(pwd)"
 /usr/local/bin/git add .
