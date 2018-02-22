@@ -26,3 +26,10 @@ echo "Directory: $(pwd)"
 /usr/local/bin/git add .
 /usr/local/bin/git commit -m "$message"
 /usr/local/bin/git push
+
+# LaTeX directory
+cd /Users/Alex/Documents/LaTeX/
+echo "Directory: $(pwd)"
+/usr/local/bin/git add .
+/usr/local/bin/git commit -m "$message"
+/usr/local/bin/git push
